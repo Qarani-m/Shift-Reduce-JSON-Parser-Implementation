@@ -1,0 +1,19 @@
+public enum TokenType {
+    NUMBER,
+    STRING,
+    LBRACE,
+    RBRACE,
+    LBRACKET,
+    RBRACKET,
+    COMMA,
+    COLON,
+    FALSE,
+    NULL,
+    TRUE,
+    VALUE,
+    OBJECT,
+    ARRAY,
+    PAIR,
+    PAIRS,
+    VALUES
+}
